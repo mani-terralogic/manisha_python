@@ -13,3 +13,7 @@ This Project contains the following practice files:
 9. Python Program for How to check if a given number is Fibonacci number?
 10. Python Program for n\’th multiple of a number in Fibonacci Series
 11. Program to print ASCII Value of a character
+12. Python Program for Sum of squares of first n natural numbers
+13. Python Program for cube sum of first n natural numbers
+14. Python Program to find sum of array
+15. Python Program to find largest element in an array
